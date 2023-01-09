@@ -1,0 +1,22 @@
+#-----------------
+#|	James Hom   |
+#|	jhh318      |
+#|	11287431    |
+#|	Mark Keil   |
+#-----------------
+
+Fruits yield from final year:
+****************************
+Waterfruits : 895
+Grassfruits : 4154
+Megafriuts : 0
+Firefruits : 4425
+Joltfruits : 468
+
+Total farm yield after 63 years:
+**********************************
+Waterfruits : 30963
+Grassfruits : 138475
+Megafriuts : 0
+Firefruits : 165606
+Joltfruits : 24271
